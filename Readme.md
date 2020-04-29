@@ -17,13 +17,13 @@ El ejercicio será corregido a medida que se vaya realizando a través de tests.
 
 - [ ] 2.- Crea un **objeto** de nombre **Casa** que tenga las propiedades: **codPostal, calle, portal, piso**
 
-- [ ] 3.- Crea un **objeto** de nombre **Noticia** que tenga las propiedades: **Titualar, cuerpo**
+- [ ] 3.- Crea un **objeto** de nombre **Noticia** que tenga las propiedades: **titular, cuerpo**
 
 - [ ] 4.- Crea un **objeto** de nombre **Persona** que tenga las propiedades: **nombre, apellidos, edad**
 
 - [ ] 5.- Crea un **objeto** de nombre **Avion** que tenga las propiedades: **numPasajeros, función despegar (imprime por consola 'despegando'), función volar (imprime por consola llegando al destino), función aterrizar (imprime por consola 'aterrizando'**
 
-- [ ] 6.- Crea un **objeto** de nombre **PaqueteAmazon** que tenga las propiedades: **array contenido con todos los objetos que contenga el paquete**
+- [ ] 6.- Crea un **objeto** de nombre **Paquete** que tenga las propiedades: **array contenido con todos los objetos que contenga el paquete**
 
 - [ ] 7.- Crea un **objeto** de nombre **Pais** que tenga las propiedades: **numHabitantes, continente, gentilicio**
 
@@ -37,7 +37,7 @@ El ejercicio será corregido a medida que se vaya realizando a través de tests.
 
 - [ ] 11.- Dado un **objeto** de nombre **Portatil** obtén el valor de la propiedad **marca con ["marca"]** guardándolo en la variable **marcaPortatil2**
 
-- [ ] 12.- Dado un **objeto** de nombre **Error** obtén el valor de la propiedad **codigo** guardándolo en la variable **codError**
+- [ ] 12.- Dado un **objeto** de nombre **O_Error** obtén el valor de la propiedad **codigo** guardándolo en la variable **codError**
 
 - [ ] 13.- Dado un **objeto** de nombre **Concierto** obtén el valor de la propiedad **array grupos** guardándolo en la variable **grupos**
 
@@ -49,7 +49,7 @@ El ejercicio será corregido a medida que se vaya realizando a través de tests.
 
 - [ ] 17.- Dado un **objeto** de nombre **Movil** obtén el valor de la propiedad **especificaciones con ["especificaciones"]** guardándolo en la variable **especificaciones**
 
-- [ ] 18.- Dado un **objeto** de nombre **Led** obtén el valor de las propiedades **Rojo, Verde y Azul** guardándolo en la variable **array RGB[Rojo, Verde, Azul]**
+- [ ] 18.- Dado un **objeto** de nombre **Led** obtén el valor de las propiedades **rojo, verde y azul** guardándolo en la variable **array RGB[Rojo, Verde, Azul]**
 
 #### Modificación de propiedades ####
 
