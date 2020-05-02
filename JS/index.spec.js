@@ -93,7 +93,7 @@ describe("Pair Programming", () => {
     });
 });
 
-describe("Kata", () => {
+describe("proyecto", () => {
     describe("Objetos", () => {
         describe("Declaración", () => {
             describe("13.- Crea un 'objeto' de nombre 'Noticia' que tenga las propiedades: 'titular, cuerpo'", () => {
