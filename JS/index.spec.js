@@ -81,7 +81,7 @@ describe("Pair Programming", () => {
                 expect(Portatil.modelo).toBe("P345");
             });
             it("10.- Dado un 'objeto' de nombre 'Concierto' añade el valor 'Guns N' Roses' a la propiedad 'cartelera'", () => {
-                expect(Concierto.cartelera).toEqual(["Queen", "Guns N' roses"]);
+                expect(Concierto.cartelera).toEqual(["Queen", "Guns N' Roses"]);
             });
             it("11.- Dado un 'objeto' de nombre 'Concierto' modifica el valor de la propiedad 'fecha' por el valor 'new Date'", () => {
                 expect(Concierto.fecha).toEqual(jasmine.any(Date));
@@ -179,7 +179,7 @@ describe("Kata", () => {
                 expect(Pantalla.dimensiones).toBe("1920x1080");
             });
             it("25.- Dado un 'objeto' de nombre 'Led' modifica el valor de la propiedad 'encendido' por el valor 'false si vale true y true si vale false'", () => {
-                expect(Led.encendido).toBe(true);
+                expect(Led.encendido).toBe(!powered);
             });
             it("26.- Dado un 'objeto' de nombre 'Movil' modifica el valor de la propiedad 'temperatura' por el valor '20º'", () => {
                 expect(Movil.temperatura).toBe("20º");
